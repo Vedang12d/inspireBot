@@ -1,0 +1,29 @@
+{
+  "name": "inspirebot",
+  "version": "1.0.0",
+  "description": "Discord bot for inspirational quotes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vedang12d/inspireBot.git"
+  },
+  "keywords": [
+    "discord",
+    "bot",
+    "inspire",
+    "inspiration"
+  ],
+  "author": "Vedang12d",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Vedang12d/inspireBot/issues"
+  },
+  "homepage": "https://github.com/Vedang12d/inspireBot#readme",
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "dotenv": "^8.2.0"
+  }
+}
